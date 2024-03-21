@@ -80,7 +80,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "C:/Users/jdworning/Documents/GitHub/Disco-Stick/disco_led_head/disco_led_head fabrication package/led_head_module-fab")
+      (outputdirectory "../Fabrication Files/disco_led_head-fab-files/")
     )
   )
 
